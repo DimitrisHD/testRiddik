@@ -6,6 +6,7 @@
 *.g.cs
 *.cache
 *.i.cache
+*.csproj
 *.csproj.CoreCompileInputs.cache
 # Build results
 

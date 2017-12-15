@@ -54,6 +54,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="newpage.xaml.cs">
+      <DependentUpon>newpage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="riddik.xaml.cs">
       <DependentUpon>riddik.xaml</DependentUpon>
     </Compile>
@@ -72,6 +75,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="newpage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="riddik.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
