@@ -218,3 +218,4 @@ WpfApp1/.vs/WpfApp1/v15/Server/sqlite3/storage.ide
 *.lref
 *.cache
 *.cache
+*.ide
