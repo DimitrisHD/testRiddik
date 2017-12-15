@@ -1,5 +1,5 @@
 # User-specific files
-*.suo
+
 *.user
 *.sln.docstates
 *.g.i.cs 
@@ -8,6 +8,9 @@
 *.i.cache
 *.csproj
 *.csproj.CoreCompileInputs.cache
+*.i.cache
+*\.suo
+
 # Build results
 
 [Dd]ebug/
