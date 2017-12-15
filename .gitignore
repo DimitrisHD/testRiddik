@@ -4,7 +4,7 @@
 *.sln.docstates
 *.g.i.cs 
 *.g.cs
-*.
+*.cache
 *.csproj.CoreCompileInputs.cache
 # Build results
 
