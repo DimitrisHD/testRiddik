@@ -209,6 +209,9 @@ WpfApp1/.vs/WpfApp1/v15/Server/sqlite3/storage.ide
 *.ide
 WpfApp1/.vs/WpfApp1/v15/.suo
 WpfApp1/.vs/WpfApp1/v15/.suo
+<<<<<<< HEAD
 WpfApp1/.vs/WpfApp1/v15/.suo
 WpfApp1/.vs/WpfApp1/v15/Server/sqlite3/storage.ide
 *.cache
+=======
+>>>>>>> 61059d57c510cb840781582297319a9640dde168
