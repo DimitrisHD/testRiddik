@@ -3,7 +3,9 @@
 *.user
 *.sln.docstates
 *.g.i.cs 
-
+*.g.cs
+*.
+*.csproj.CoreCompileInputs.cache
 # Build results
 
 [Dd]ebug/
