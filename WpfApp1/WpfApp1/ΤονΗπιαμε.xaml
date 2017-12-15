@@ -12,7 +12,7 @@
     </Page.Resources>
 
     <Grid>
-        <Label Content="Τον Ήπιαμε Μάγκες" HorizontalAlignment="Left" Margin="76,10,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="{DynamicResource FontFamily1}" Width="131">
+        <Label Content="Τον Ήπιαμε Μάγκες gamw" HorizontalAlignment="Left" Margin="76,10,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="{DynamicResource FontFamily1}" Width="183">
             <Label.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black" Offset="0"/>
