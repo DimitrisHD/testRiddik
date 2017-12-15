@@ -203,3 +203,6 @@ $RECYCLE.BIN/
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
 WpfApp1/.vs/WpfApp1/v15/.suo
+WpfApp1/.vs/WpfApp1/v15/.suo
+WpfApp1/.vs/WpfApp1/v15/Server/sqlite3/storage.ide
+*.ide
